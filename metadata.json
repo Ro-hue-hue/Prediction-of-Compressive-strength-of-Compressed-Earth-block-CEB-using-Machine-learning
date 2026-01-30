@@ -1,0 +1,5 @@
+{
+  "name": "CEB Strength Predictor Pro",
+  "description": "An advanced engineering dashboard for predicting the compressive strength of Compressed Earth Blocks (CEBs) using machine learning models trained on Wardha soil laboratory data.",
+  "requestFramePermissions": []
+}
